@@ -10,7 +10,7 @@ The GitHub URL of the project's codebase
 **Base URL**: ``
 
 ### Main Endpoint
-GET /
+**GET /**
 ```json
 Response:
 {
