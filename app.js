@@ -16,7 +16,7 @@ app.get('/', (req, res) => {
     github_url: "https://github.com/AyomideHub/HNG-STAGE0-TASK.git"
   };
 
-  res.status(200).json({success: true, data: responseObject});
+  res.status(200).json(responseObject);
 });
 
 

@@ -7,7 +7,7 @@ The GitHub URL of the project's codebase
 
 ## Documentation
 
-**Base URL**: ``
+**Base URL**: `https://hng-stage0-task-tdv5.onrender.com`
 
 ### Main Endpoint
 **GET /**
