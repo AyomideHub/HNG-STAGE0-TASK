@@ -19,15 +19,23 @@ Response:
   "github_url": "https://github.com/AyomideHub/HNG-STAGE0-TASK.git"
 },
 
+```
+
 
 ## Local Dev - Setup instructions
 
 ### 1. Clone repo - On Terminal(Bash):
+
+```
 git clone https://github.com/AyomideHub/HNG-STAGE0-TASK.git
 cd repo
-
+```
 ### 2. Install dependencies/modules:
+```
 npm install
+```
 
 ### 3. Start dev server:
+```
 npm run dev
+```
